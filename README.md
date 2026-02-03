@@ -54,13 +54,13 @@ Flow:
 
 ## 📁 Project Structure
 
-.
+```
 ├── coustomer_reviews.ipynb
 ├── dashboad_GUI.py
 ├── feedback_GUI.py
 ├── credentials.json
 └── README.md
-
+```
 ---
 
 ## ⚙️ How It Works
